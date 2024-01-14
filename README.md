@@ -4,7 +4,7 @@ We are Mekong IT Services, an IT organization (company) established in Calgary, 
  
 We have new research on Medical Machine Learning to find precious clients who are medical doctors and clinics and who are interested in our Automatic Medical Diagnosis software online, called the "Mekong Health" software.
  
-<h2>These are our software accuracy on disease prediction</h2>
+<h2>These are our software accuracy on 10 disease predictions</h2>
  
 I) Autistic Spectrum Disorder of Children
 
@@ -41,6 +41,10 @@ Prediction Accuracy: 94%
 IX) Stroke
 
 Prediction Accuracy: 81%
+
+X) Tuberculosis
+
+Prediction Accuracy: 98%
  
 <h2>Result 1:  Let us have a look of how we perform Pneumonia predictions through a few screenshots</h2>
  
