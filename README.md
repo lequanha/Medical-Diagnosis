@@ -4,7 +4,7 @@ We are Mekong IT Services, an IT organization (company) established in Calgary, 
  
 We have new research on Medical Machine Learning to find precious clients who are medical doctors and clinics and who are interested in our Automatic Medical Diagnosis software online, called the "Mekong Health" software.
  
-<h2>These are our software accuracy on 10 disease predictions</h2>
+<h2>These are our software accuracy on 12 disease predictions</h2>
  
 I) Autistic Spectrum Disorder of Children
 
@@ -13,56 +13,64 @@ Prediction Accuracy: 97%
 II) Breast Cancer
 
 Prediction Accuracy: 98%
+
+III) Covid-19
+
+Prediction Accuracy: 97.1%
  
-III) Diabetes
+IV) Diabetes
 
 Prediction Accuracy: 86%
  
-IV) DNA Genetic Disorder
+V) DNA Genetic Disorder
 
 Prediction Accuracy: 96%
  
-V) Heart Disease
+VI) Heart Disease
 
 Prediction Accuracy: 90%
  
-VI) Kidney Disease
+VII) Kidney Disease
 
 Prediction Accuracy: 98%
  
-VII) Liver Disease
+VIII) Liver Disease
 
 Prediction Accuracy: 84%
  
-VIII) Pneumonia
+IX) Pneumonia
 
 Prediction Accuracy: 94%
+
+X) Skin Cancer:
+
+Prediction Accuracy: TBC
  
-IX) Stroke
+XI) Stroke
 
 Prediction Accuracy: 81%
-
-X) Tuberculosis
+ 
+XII) Tuberculosis
 
 Prediction Accuracy: 98%
  
-<h2>Result 1:  Let us have a look of how we perform Pneumonia predictions through a few screenshots</h2>
+<h2>Result 1:  Let us have a look of how we perform Covid-19 predictions through a few screenshots</h2>
  
 A) On our Home page (after User Login)
 
 <img src="marketing/homepage.png">
  
-B) We select Pneumonia
+B) We select Covid-19
 
-<img src="marketing/pneumonia1.png">
+<img src="marketing/covid191.png">
  
 C) We then upload the first healthy X-ray and obtain Normal condition
 
-<img src="marketing/pneumonia5.png">
+<img src="marketing/covid192.png">
  
-D) Otherwise we can also upload the second sick X-ray and obtain Pneumonia Disease condition
+D) Otherwise we can also upload the second sick X-ray and obtain Covid-19 Disease condition
  
-<img src="marketing/pneumonia6.png">
+<img src="marketing/covid193.png">
  
 <h2>Result 2: Let us have a look of how we perform an Autistic Spectrum Disorder of Children prediction through a few screenshots</h2>
  
@@ -79,6 +87,20 @@ B) We then fill in the dimensions
 C) We then get the result of Autism prediction
 
 <img src="marketing/autism4.png">
+
+<h2>Result 3:  Let us have a look of how we perform Pneumonia predictions through a few screenshots</h2>
+ 
+A) On our Home page (after User Login), we select Pneumonia
+
+<img src="marketing/pneumonia1.png">
+ 
+B) We then upload the first healthy X-ray and obtain Normal condition
+
+<img src="marketing/pneumonia5.png">
+ 
+C) Otherwise we can also upload the second sick X-ray and obtain Pneumonia Disease condition
+ 
+<img src="marketing/pneumonia6.png">
 
 Our software can beautifully launch on your mobile cell phones any where, easily only requiring that you have a Wifi connection.
 
