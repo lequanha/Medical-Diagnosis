@@ -44,7 +44,7 @@ Prediction Accuracy: 94%
 
 X) Skin Cancer:
 
-Prediction Accuracy: TBC
+Prediction Accuracy: 81%
  
 XI) Stroke
 
