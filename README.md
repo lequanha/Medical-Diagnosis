@@ -1,8 +1,8 @@
 <h1>Online Healthcare System for Sales on AWS</h1>
 
-We are Mekong IT Services, an IT organization (company) established in Calgary, Alberta, Canada.
+We are Foghlaim Meaisin Software, an IT organization (company) established in Calgary, Alberta, Canada.
  
-We have new research on Medical Machine Learning to find precious clients who are medical doctors and clinics and who are interested in our Automatic Medical Diagnosis software online, called the "Mekong Health" software.
+We have new research on Medical Machine Learning to find precious clients who are medical doctors and clinics and who are interested in our Automatic Medical Diagnosis software online, called the "Foghlaim Meaisin Health" software.
  
 <h2>These are our software accuracy on 12 disease predictions</h2>
  
@@ -131,4 +131,4 @@ pip install -r requirements.txt
 python healthcare.py
 ```
 
-COPYRIGHT@2023 OF MEKONG IT SERVICES, CALGARY, ALBERTA, CANADA.
+COPYRIGHT@2023 OF FOGHLAIM MEAISIN SOFTWARE, CALGARY, ALBERTA, CANADA.
